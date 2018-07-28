@@ -1,0 +1,5 @@
+<Test>
+	<Node1 Attribute="The value of the test attribute">
+		The replaced test value
+	</Node1>
+</Test>

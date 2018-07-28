@@ -1,0 +1,5 @@
+<Test>
+	<Node1 Attribute="{{TestAttribute}}">
+		{{TestValue}}
+	</Node1>
+</Test>

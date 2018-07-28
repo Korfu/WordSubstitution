@@ -1,0 +1,4 @@
+{
+	"TestAttribute": "The value of the test attribute",
+	"TestValue": "The replaced test value"
+}
